@@ -2,7 +2,7 @@
 <html lang="nl">
 
 <!--Import CSS Bestand navigatie balk-->
-<link rel="stylesheet" href="navi.css">
+<link rel="stylesheet" href="styles/navi.css">
 
 <!--Import Quicksand lettertype-->
 <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
@@ -21,7 +21,7 @@
         <a class="navigatieDeelBurger navigatiePlaatsing" href="/">Burger</a>
 
         <!--Prioriteit hulpdiensten-->
-        <a class="navigatieDeelPolitie navigatiePlaatsing" href="/">Politie</a>
+        <a class="navigatieDeelPolitie navigatiePlaatsing" href="/vorta/vorta/  politie.php">Politie</a>
         <a class="navigatieDeelAmbulance navigatiePlaatsing" href="/">Ambulance</a>
         <a class="navigatieDeelBrandweer navigatiePlaatsing" href="/">Brandweer</a>
         
@@ -71,4 +71,4 @@
 </div>
 
 </body>
-</html> ttt
+</html>
