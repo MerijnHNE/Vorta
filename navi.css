@@ -1,0 +1,97 @@
+/* CSS Importeer bestand via stylesheet */
+
+.navigatiePlaatsing {
+    font-family: "Quicksand";
+    margin-right: 3%;
+}
+
+.navigatieDeelHome {
+    background-color: yellowgreen;
+    color: red;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.navigatieDeelBurger {
+    background-color: orange;
+    color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelPolitie {
+    background-color: blue;
+    color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelAmbulance {
+    background-color: yellow;
+    color: orangered;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelBrandweer {
+    background-color: red;
+    color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelKMAR {
+    background-color: darkblue;
+    color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelUM {
+    background-color: gray;
+    color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelRB {
+    background-color: yellow;
+    color: darkgreen;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelOverig {
+    background-color: palevioletred;
+    color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navigatieDeelContact {
+    background-color: blue;
+    color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.div1 {
+    background: #800000;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.div2 {
+    background: #800000;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: -40px;
+    border-radius: 25px;
+}
+
+
+.fotonavigatiebalk {
+    margin-top: 25px;
+}
